@@ -1,4 +1,10 @@
 {
   "vetur.experimental.templateInterpolationService": true,
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#520C52",
+    "activityBar.foreground": "#f7f7f7",
+    "titleBar.activeBackground": "#731073",
+    "titleBar.activeForeground": "#FEFBFE"
+  }
 }
